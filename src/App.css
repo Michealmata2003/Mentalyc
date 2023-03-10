@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Poppins:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.css-13cymwt-control {
+    background-color: #F2F2F2 !important;
+    border-radius: 8px !important;
+    border: none !important;
+    border-color: #F2F2F2 !important;
+}
+
+.css-13cymwt-control:hover {
+    border-color: #F2F2F2 !important;
+}
+
+.css-t3ipsp-control {
+    background-color: #F2F2F2 !important;
+    border-radius: 8px !important;
+    border: none !important;
+    box-shadow: none !important;
+    border-color: #F2F2F2 !important;
+}
+
+.css-t3ipsp-control:hover {
+    border-color: #F2F2F2 !important;
+}
+
+.css-1dimb5e-singleValue {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000 !important;
+}
+
+.css-1u9des2-indicatorSeparator {
+    width: 0px !important;
+}
+
+.css-1nmdiq5-menu {
+    background-color: #F2F2F2 !important;
+    border-radius: 8px !important;
+    border: none !important;
+    box-shadow: none !important;
+    border-color: #F2F2F2 !important;
+}
